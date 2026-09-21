@@ -1,0 +1,10 @@
+.env
+youtube/cookies.txt
+youtube/youtube_profile/
+outputs/ytInitialData.json
+.venv
+youtube_profile
+youtube/__pycache__
+__pycache__
+by_hand
+practice
